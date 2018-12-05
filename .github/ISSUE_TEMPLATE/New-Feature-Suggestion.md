@@ -1,6 +1,9 @@
 ---
 name: New Feature Suggestion
 about: Request a new feature for Homebrew/brew
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

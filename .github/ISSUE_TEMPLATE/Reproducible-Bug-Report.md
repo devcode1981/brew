@@ -1,6 +1,9 @@
 ---
 name: Reproducible Bug Report
 about: Submit an issue so we can investigate
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
